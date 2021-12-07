@@ -1,4 +1,4 @@
-# my-app
+# vue3_composables_api_demo 
 
 ## Project setup
 ```
